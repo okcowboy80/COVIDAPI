@@ -43,6 +43,9 @@ class App extends Component {
 
       return (
         <div className="App">
+          <div className="row">
+            <h1 className="text-danger">COVID CASES API</h1>
+          </div>
           <div style={mystyle}>
             <h2>Actual Cases:</h2>
             <p><h4>{items.actuals.cases.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")}</h4></p>

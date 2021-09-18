@@ -13,11 +13,10 @@ const Monkeys = () => {
             <div className="container">
                 <div className="row "></div>
                 <div className="d-flex justify-content-center">
-                    <h2>Give The Monkey His Vaccination!</h2>
+                    <h2 className="my-4">Give The Monkey His Vaccination!</h2>
                     
                 </div>
-                <hr/>
-            
+       
                 <br />
                 <div className="row ">
                     <div>
