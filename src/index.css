@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+html {
+  cursor: url('http://www.rw-designer.com/cursor-extern.php?id=126947');
+  cursor: url("img/Syringe.cur"), default;
+}
